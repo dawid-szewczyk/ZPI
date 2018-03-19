@@ -1,5 +1,6 @@
 package com.pwr.zpi.language
 
+import com.pwr.zpi._CommonClasses.Trait
 import com.pwr.zpi.core.memory.semantic.IndividualModel
 import com.pwr.zpi.core.memory.semantic.ObjectType
 import com.pwr.zpi.core.memory.semantic.identifiers.QRCode

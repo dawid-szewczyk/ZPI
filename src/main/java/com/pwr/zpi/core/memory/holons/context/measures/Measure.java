@@ -3,7 +3,7 @@
  */
 package com.pwr.zpi.core.memory.holons.context.measures;
 
-import com.pwr.zpi.core.memory.episodic.BaseProfile;
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
 import com.pwr.zpi.exceptions.InvalidMeasureImplementation;
 import com.pwr.zpi.core.memory.holons.context.Context;
 

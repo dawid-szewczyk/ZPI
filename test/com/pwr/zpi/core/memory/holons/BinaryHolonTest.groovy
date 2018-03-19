@@ -1,9 +1,9 @@
 package holons
 
 import com.pwr.zpi.core.Agent
-import com.pwr.zpi.core.memory.episodic.BPCollection
-import com.pwr.zpi.core.memory.episodic.BaseProfile
-import com.pwr.zpi.core.memory.episodic.DistributedKnowledge
+import com.pwr.zpi._EpisodicMemoryLayer.BPCollection
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile
+import com.pwr.zpi._SemanticMemoryLayer.DistributedKnowledge
 import com.pwr.zpi.core.memory.holons.BinaryHolon
 import com.pwr.zpi.core.memory.holons.Holon
 import com.pwr.zpi.core.memory.semantic.IndividualModel
@@ -14,7 +14,7 @@ import com.pwr.zpi.exceptions.NotApplicableException
 import com.pwr.zpi.exceptions.NotConsistentDKException
 import com.pwr.zpi.language.Formula
 import com.pwr.zpi.language.SimpleFormula
-import com.pwr.zpi.language.Trait
+import com.pwr.zpi._CommonClasses.Trait
 import org.testng.annotations.Test
 
 class BinaryHolonTest extends GroovyTestCase{

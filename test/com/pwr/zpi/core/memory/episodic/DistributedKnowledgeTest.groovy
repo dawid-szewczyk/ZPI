@@ -1,9 +1,10 @@
 package episodic
 
+import com.pwr.zpi._CommonClasses.Trait
 import com.pwr.zpi.core.Agent
-import com.pwr.zpi.core.memory.episodic.BPCollection
-import com.pwr.zpi.core.memory.episodic.BaseProfile
-import com.pwr.zpi.core.memory.episodic.DistributedKnowledge
+import com.pwr.zpi._EpisodicMemoryLayer.BPCollection
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile
+import com.pwr.zpi._SemanticMemoryLayer.DistributedKnowledge
 import com.pwr.zpi.core.memory.semantic.IndividualModel
 import com.pwr.zpi.core.memory.semantic.ObjectType
 import com.pwr.zpi.core.memory.semantic.identifiers.QRCode

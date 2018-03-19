@@ -1,6 +1,7 @@
 package holons.context.builders
 
-import com.pwr.zpi.core.memory.episodic.BaseProfile
+import com.pwr.zpi._CommonClasses.Trait
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile
 import com.pwr.zpi.core.memory.holons.context.builders.ConcreteContextBuilder
 import com.pwr.zpi.core.memory.holons.context.builders.ContextBuilder
 import com.pwr.zpi.core.memory.holons.context.selectors.LatestGroupSelector

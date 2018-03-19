@@ -1,6 +1,6 @@
 package com.pwr.zpi.core.memory.holons.context.selectors;
 
-import com.pwr.zpi.core.memory.episodic.BaseProfile;
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
 import com.pwr.zpi.language.Formula;
 
 import java.util.Map;

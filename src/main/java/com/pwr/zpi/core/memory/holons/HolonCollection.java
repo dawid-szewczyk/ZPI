@@ -1,7 +1,7 @@
 package com.pwr.zpi.core.memory.holons;
 
 import com.pwr.zpi.core.Agent;
-import com.pwr.zpi.core.memory.episodic.DistributedKnowledge;
+import com.pwr.zpi._SemanticMemoryLayer.DistributedKnowledge;
 import com.pwr.zpi.core.memory.holons.context.contextualisation.Contextualisation;
 import com.pwr.zpi.exceptions.InvalidContextException;
 import com.pwr.zpi.exceptions.InvalidFormulaException;

@@ -2,7 +2,7 @@ package com.pwr.zpi.core.memory.semantic;
 
 
 import com.pwr.zpi.core.memory.semantic.identifiers.Identifier;
-import com.pwr.zpi.language.Trait;
+import com.pwr.zpi._CommonClasses.Trait;
 
 import java.util.List;
 

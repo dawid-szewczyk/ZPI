@@ -1,6 +1,6 @@
 package com.pwr.zpi.core.memory.semantic;
 
-import com.pwr.zpi.core.memory.episodic.Observation;
+import com.pwr.zpi._EpisodicMemoryLayer.Observation;
 import com.pwr.zpi.core.memory.semantic.identifiers.Identifier;
 
 import java.util.*;

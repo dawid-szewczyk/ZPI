@@ -1,6 +1,7 @@
 package holons.context.selectors
 
-import com.pwr.zpi.core.memory.episodic.BaseProfile
+import com.pwr.zpi._CommonClasses.Trait
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile
 import com.pwr.zpi.core.memory.holons.context.selectors.LatestGroupSelector
 import com.pwr.zpi.core.memory.semantic.IndividualModel
 import com.pwr.zpi.core.memory.semantic.ObjectType

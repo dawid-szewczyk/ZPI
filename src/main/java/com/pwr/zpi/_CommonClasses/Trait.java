@@ -1,4 +1,4 @@
-package com.pwr.zpi.language;
+package com.pwr.zpi._CommonClasses;
 
 /**
  * Describes trait, which can be used to describe object. Instances of this class

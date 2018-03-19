@@ -3,7 +3,7 @@ package com.pwr.zpi.linguistic
 import com.pwr.zpi.language.Formula
 import com.pwr.zpi.language.ModalOperator
 import com.pwr.zpi.language.SimpleFormula
-import com.pwr.zpi.language.Trait
+import com.pwr.zpi._CommonClasses.Trait
 import com.pwr.zpi.core.memory.semantic.IndividualModel
 import com.pwr.zpi.core.memory.semantic.ObjectType
 import com.pwr.zpi.core.memory.semantic.identifiers.QRCode

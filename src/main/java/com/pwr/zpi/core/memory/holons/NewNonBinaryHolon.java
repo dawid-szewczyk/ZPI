@@ -3,8 +3,8 @@
  */
 package com.pwr.zpi.core.memory.holons;
 
-import com.pwr.zpi.core.memory.episodic.BaseProfile;
-import com.pwr.zpi.core.memory.episodic.DistributedKnowledge;
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
+import com.pwr.zpi._SemanticMemoryLayer.DistributedKnowledge;
 import com.pwr.zpi.core.memory.holons.context.contextualisation.Contextualisation;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.NotApplicableException;

@@ -5,11 +5,11 @@ package com.pwr.zpi.simulation;
 
 import com.pwr.zpi.conversation.ConversationSimulator;
 import com.pwr.zpi.core.Agent;
-import com.pwr.zpi.core.memory.episodic.Observation;
+import com.pwr.zpi._EpisodicMemoryLayer.Observation;
 import com.pwr.zpi.exceptions.InvalidScenarioException;
 import com.pwr.zpi.core.memory.holons.context.contextualisation.Contextualisation;
 import com.pwr.zpi.io.Configuration;
-import com.pwr.zpi.language.Trait;
+import com.pwr.zpi._CommonClasses.Trait;
 import com.pwr.zpi.core.memory.semantic.identifiers.QRCode;
 import javafx.util.Pair;
 

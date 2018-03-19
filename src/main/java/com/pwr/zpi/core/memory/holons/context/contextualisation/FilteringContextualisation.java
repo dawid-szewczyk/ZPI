@@ -3,7 +3,7 @@
  */
 package com.pwr.zpi.core.memory.holons.context.contextualisation;
 
-import com.pwr.zpi.core.memory.episodic.BaseProfile;
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
 import com.pwr.zpi.core.memory.holons.context.builders.ContextBuilder;
 import com.pwr.zpi.core.memory.holons.context.measures.Measure;
 import com.pwr.zpi.core.memory.holons.context.selectors.RepresentativesSelector;

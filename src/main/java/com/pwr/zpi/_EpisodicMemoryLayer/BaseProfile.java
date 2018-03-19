@@ -1,11 +1,11 @@
 /*
  * Created by Grzegorz Kostkowski
  */
-package com.pwr.zpi.core.memory.episodic;
+package com.pwr.zpi._EpisodicMemoryLayer;
 
 import com.pwr.zpi.core.memory.semantic.IndividualModel;
 import com.pwr.zpi.language.State;
-import com.pwr.zpi.language.Trait;
+import com.pwr.zpi._CommonClasses.Trait;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 import java.util.*;

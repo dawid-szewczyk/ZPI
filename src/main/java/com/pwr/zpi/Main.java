@@ -1,8 +1,9 @@
 package com.pwr.zpi;
 
+import com.pwr.zpi._CommonClasses.Trait;
 import com.pwr.zpi.conversation.ConversationSimulator;
 import com.pwr.zpi.core.Agent;
-import com.pwr.zpi.core.memory.episodic.Observation;
+import com.pwr.zpi._EpisodicMemoryLayer.Observation;
 import com.pwr.zpi.core.memory.holons.context.measures.NormalisedSoftDistance;
 import com.pwr.zpi.core.memory.holons.context.selectors.LatestFocusedGroupSelector;
 import com.pwr.zpi.core.memory.holons.context.selectors.LatestGroupSelector;
@@ -22,8 +23,6 @@ import com.pwr.zpi.language.*;
 import com.pwr.zpi.core.memory.semantic.identifiers.QRCode;
 import com.pwr.zpi.simulation.Scenario;
 import com.pwr.zpi.util.Util;
-import javafx.application.Application;
-import org.codehaus.groovy.runtime.powerassert.SourceText;
 
 import java.util.*;
 import java.util.logging.Level;

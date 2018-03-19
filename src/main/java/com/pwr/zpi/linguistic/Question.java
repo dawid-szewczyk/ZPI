@@ -1,6 +1,7 @@
 
 package com.pwr.zpi.linguistic;
 
+import com.pwr.zpi._CommonClasses.Trait;
 import com.pwr.zpi.core.Agent;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.InvalidQuestionException;

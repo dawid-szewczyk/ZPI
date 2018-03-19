@@ -1,5 +1,6 @@
 package com.pwr.zpi.language;
 
+import com.pwr.zpi._CommonClasses.Trait;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.core.memory.semantic.IndividualModel;
 

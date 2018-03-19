@@ -1,9 +1,8 @@
 package com.pwr.zpi.core.memory.holons.ContextJar;
 
-import com.pwr.zpi.core.memory.episodic.BaseProfile;
-import com.pwr.zpi.core.memory.episodic.BaseProfile;
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
 import com.pwr.zpi.util.Pair;
-import com.pwr.zpi.language.Trait;
+import com.pwr.zpi._CommonClasses.Trait;
 
 import java.util.Set;
 

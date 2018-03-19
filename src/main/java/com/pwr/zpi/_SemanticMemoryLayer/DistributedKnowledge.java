@@ -1,8 +1,10 @@
 /*
  * Created by Grzegorz Kostkowski
  */
-package com.pwr.zpi.core.memory.episodic;
+package com.pwr.zpi._SemanticMemoryLayer;
 
+import com.pwr.zpi._EpisodicMemoryLayer.BPCollection;
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
 import com.pwr.zpi.core.Agent;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.NotConsistentDKException;
@@ -10,7 +12,7 @@ import com.pwr.zpi.core.memory.semantic.IndividualModel;
 import com.pwr.zpi.io.Configuration;
 import com.pwr.zpi.language.Formula;
 import com.pwr.zpi.language.Grounder;
-import com.pwr.zpi.language.Trait;
+import com.pwr.zpi._CommonClasses.Trait;
 import com.sun.istack.internal.NotNull;
 import javafx.util.Pair;
 

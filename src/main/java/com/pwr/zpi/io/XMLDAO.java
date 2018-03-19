@@ -5,7 +5,7 @@ package com.pwr.zpi.io;
 
 
 import com.pwr.zpi.core.memory.semantic.ObjectType;
-import com.pwr.zpi.language.Trait;
+import com.pwr.zpi._CommonClasses.Trait;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.DomDriver;
 
@@ -15,7 +15,6 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Collection;
-import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 

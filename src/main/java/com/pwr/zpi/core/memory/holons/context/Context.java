@@ -3,7 +3,7 @@
  */
 package com.pwr.zpi.core.memory.holons.context;
 
-import com.pwr.zpi.language.Trait;
+import com.pwr.zpi._CommonClasses.Trait;
 import com.pwr.zpi.core.memory.semantic.IndividualModel;
 
 import java.util.ArrayList;

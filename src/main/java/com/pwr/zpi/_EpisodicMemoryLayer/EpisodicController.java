@@ -1,4 +1,6 @@
-package com.pwr.zpi.EpisodicMemoryLayer;
+package com.pwr.zpi._EpisodicMemoryLayer;
 
 public class EpisodicController implements EpisodicInterface {
+
+
 }

@@ -1,9 +1,9 @@
 package holons
 
 import com.pwr.zpi.core.Agent
-import com.pwr.zpi.core.memory.episodic.BPCollection
-import com.pwr.zpi.core.memory.episodic.BaseProfile
-import com.pwr.zpi.core.memory.episodic.DistributedKnowledge
+import com.pwr.zpi._EpisodicMemoryLayer.BPCollection
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile
+import com.pwr.zpi._SemanticMemoryLayer.DistributedKnowledge
 import com.pwr.zpi.core.memory.holons.NewNonBinaryHolon
 import com.pwr.zpi.core.memory.holons.context.contextualisation.Contextualisation
 import com.pwr.zpi.core.memory.holons.context.measures.Distance
@@ -14,7 +14,7 @@ import com.pwr.zpi.core.memory.semantic.identifiers.QRCode
 import com.pwr.zpi.language.ComplexFormula
 import com.pwr.zpi.language.LogicOperator
 import com.pwr.zpi.language.State
-import com.pwr.zpi.language.Trait
+import com.pwr.zpi._CommonClasses.Trait
 
 import java.text.DecimalFormat
 

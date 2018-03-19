@@ -3,7 +3,7 @@
  */
 package com.pwr.zpi.core.memory.holons.context.contextualisation;
 
-import com.pwr.zpi.core.memory.episodic.BaseProfile;
+import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
 import com.pwr.zpi.language.Formula;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 

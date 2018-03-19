@@ -1,13 +1,16 @@
 package episodic
 
+import com.pwr.zpi._CommonClasses.Formulas.ComplexFormula
+import com.pwr.zpi._CommonClasses.Formulas.Formula
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula
 import com.pwr.zpi._CommonClasses.Trait
 import com.pwr.zpi.core.Agent
 import com.pwr.zpi._EpisodicMemoryLayer.BPCollection
 import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile
 import com.pwr.zpi._SemanticMemoryLayer.DistributedKnowledge
-import com.pwr.zpi.core.memory.semantic.IndividualModel
-import com.pwr.zpi.core.memory.semantic.ObjectType
-import com.pwr.zpi.core.memory.semantic.identifiers.QRCode
+import com.pwr.zpi._CommonClasses.IndividualModel
+import com.pwr.zpi._CommonClasses.ObjectType
+import com.pwr.zpi._CommonClasses.identifiers.QRCode
 import com.pwr.zpi.language.*
 import javafx.util.Pair
 import org.testng.annotations.Test

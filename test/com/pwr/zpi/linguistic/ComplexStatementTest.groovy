@@ -1,13 +1,13 @@
-import com.pwr.zpi.language.ComplexFormula
-import com.pwr.zpi.language.Formula
+import com.pwr.zpi._CommonClasses.Formulas.ComplexFormula
+import com.pwr.zpi._CommonClasses.Formulas.Formula
 import com.pwr.zpi.language.LogicOperator
 import com.pwr.zpi.language.ModalOperator
 import com.pwr.zpi.language.State
 import com.pwr.zpi._CommonClasses.Trait
-import com.pwr.zpi.linguistic.ComplexStatement
-import com.pwr.zpi.core.memory.semantic.IndividualModel
-import com.pwr.zpi.core.memory.semantic.ObjectType
-import com.pwr.zpi.core.memory.semantic.identifiers.QRCode
+import com.pwr.zpi._CommunicationLayer.ComplexStatement
+import com.pwr.zpi._CommonClasses.IndividualModel
+import com.pwr.zpi._CommonClasses.ObjectType
+import com.pwr.zpi._CommonClasses.identifiers.QRCode
 import org.junit.Test
 
 /**

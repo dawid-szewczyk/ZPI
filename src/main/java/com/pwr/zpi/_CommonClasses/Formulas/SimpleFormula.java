@@ -1,8 +1,9 @@
-package com.pwr.zpi.language;
+package com.pwr.zpi._CommonClasses.Formulas;
 
 import com.pwr.zpi._CommonClasses.Trait;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
-import com.pwr.zpi.core.memory.semantic.IndividualModel;
+import com.pwr.zpi._CommonClasses.IndividualModel;
+import com.pwr.zpi.language.State;
 
 import java.util.ArrayList;
 import java.util.Arrays;

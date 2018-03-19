@@ -5,7 +5,7 @@ import com.pwr.zpi.core.memory.holons.context.contextualisation.Contextualisatio
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.NotApplicableException;
 import com.pwr.zpi._SemanticMemoryLayer.DistributedKnowledge;
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 import com.pwr.zpi.util.Pair;
 
 import java.util.List;

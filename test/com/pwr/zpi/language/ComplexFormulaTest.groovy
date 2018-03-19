@@ -1,9 +1,11 @@
 package com.pwr.zpi.language
 
+import com.pwr.zpi._CommonClasses.Formulas.ComplexFormula
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula
 import com.pwr.zpi._CommonClasses.Trait
-import com.pwr.zpi.core.memory.semantic.IndividualModel
-import com.pwr.zpi.core.memory.semantic.ObjectType
-import com.pwr.zpi.core.memory.semantic.identifiers.QRCode
+import com.pwr.zpi._CommonClasses.IndividualModel
+import com.pwr.zpi._CommonClasses.ObjectType
+import com.pwr.zpi._CommonClasses.identifiers.QRCode
 import org.junit.Test
 
 /**

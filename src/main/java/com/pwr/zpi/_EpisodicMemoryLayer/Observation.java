@@ -1,7 +1,7 @@
 package com.pwr.zpi._EpisodicMemoryLayer;
 
-import com.pwr.zpi.core.memory.semantic.identifiers.Identifier;
-import com.pwr.zpi.core.memory.semantic.ObjectType;
+import com.pwr.zpi._CommonClasses.identifiers.Identifier;
+import com.pwr.zpi._CommonClasses.ObjectType;
 import com.pwr.zpi._CommonClasses.Trait;
 
 import java.util.Map;

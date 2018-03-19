@@ -1,5 +1,8 @@
-package com.pwr.zpi.language;
+package com.pwr.zpi._CommonClasses;
 
+import com.pwr.zpi._CommonClasses.Formulas.ComplexFormula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula;
 import com.pwr.zpi._CommonClasses.Trait;
 import com.pwr.zpi.core.Agent;
 import com.pwr.zpi.io.Configuration;
@@ -10,6 +13,9 @@ import com.pwr.zpi.exceptions.InvalidConfigurationException;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.NotApplicableException;
 import com.pwr.zpi.exceptions.NotConsistentDKException;
+import com.pwr.zpi.language.LogicOperator;
+import com.pwr.zpi.language.ModalOperator;
+import com.pwr.zpi.language.State;
 import com.sun.istack.internal.Nullable;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 

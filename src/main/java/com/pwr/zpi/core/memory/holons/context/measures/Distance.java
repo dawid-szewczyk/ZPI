@@ -10,7 +10,7 @@ import com.pwr.zpi.core.memory.holons.context.Context;
 import com.pwr.zpi.io.Configuration;
 import com.pwr.zpi.language.State;
 import com.pwr.zpi._CommonClasses.Trait;
-import com.pwr.zpi.core.memory.semantic.IndividualModel;
+import com.pwr.zpi._CommonClasses.IndividualModel;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 import java.util.*;

@@ -1,10 +1,17 @@
 package com.pwr.zpi.core.behaviours;
 
+import com.pwr.zpi._CommonClasses.Formulas.ComplexFormula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula;
+import com.pwr.zpi._CommonClasses.Grounder;
+import com.pwr.zpi._CommunicationLayer.ComplexStatement;
+import com.pwr.zpi._CommunicationLayer.Question;
+import com.pwr.zpi._CommunicationLayer.SimpleStatement;
+import com.pwr.zpi._CommunicationLayer.Statement;
 import com.pwr.zpi.conversation.Talking;
 import com.pwr.zpi.core.Agent;
 import com.pwr.zpi.exceptions.*;
 import com.pwr.zpi.language.*;
-import com.pwr.zpi.linguistic.*;
 
 import java.util.Map;
 import java.util.logging.Level;

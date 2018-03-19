@@ -12,14 +12,14 @@ import com.pwr.zpi._EpisodicMemoryLayer.Observation;
 import com.pwr.zpi.core.memory.holons.HolonCollection;
 import com.pwr.zpi.core.memory.holons.HolonsIntercessor;
 import com.pwr.zpi.core.memory.holons.context.contextualisation.Contextualisation;
-import com.pwr.zpi.core.memory.semantic.IMCollection;
-import com.pwr.zpi.core.memory.semantic.IndividualModel;
-import com.pwr.zpi.core.memory.semantic.ObjectType;
+import com.pwr.zpi._CommonClasses.IMCollection;
+import com.pwr.zpi._CommonClasses.IndividualModel;
+import com.pwr.zpi._CommonClasses.ObjectType;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.NotApplicableException;
 import com.pwr.zpi.exceptions.NotConsistentDKException;
 import com.pwr.zpi.io.DatabaseAO;
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 import com.pwr.zpi.core.behaviours.AnswerThread;
 import com.pwr.zpi.core.behaviours.UpdateThread;
 

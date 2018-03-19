@@ -1,12 +1,12 @@
 import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile
-import com.pwr.zpi.language.ComplexFormula
+import com.pwr.zpi._CommonClasses.Formulas.ComplexFormula
 import com.pwr.zpi.language.LogicOperator
-import com.pwr.zpi.language.SimpleFormula
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula
 import com.pwr.zpi.language.State
 import com.pwr.zpi._CommonClasses.Trait
-import com.pwr.zpi.core.memory.semantic.IndividualModel
-import com.pwr.zpi.core.memory.semantic.ObjectType
-import com.pwr.zpi.core.memory.semantic.identifiers.QRCode
+import com.pwr.zpi._CommonClasses.IndividualModel
+import com.pwr.zpi._CommonClasses.ObjectType
+import com.pwr.zpi._CommonClasses.identifiers.QRCode
 
 /**
  * Created by Grzesiek on 2017-05-30.

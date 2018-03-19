@@ -1,4 +1,4 @@
-package com.pwr.zpi.core.memory.semantic.identifiers;
+package com.pwr.zpi._CommonClasses.identifiers;
 
 /**
  * Example of identifier.

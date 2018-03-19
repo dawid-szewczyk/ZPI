@@ -1,6 +1,6 @@
 package com.pwr.zpi.util;
 
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 
 import java.util.*;
 

@@ -1,5 +1,5 @@
 import com.pwr.zpi.io.Configuration
-import com.pwr.zpi.language.Formula
+import com.pwr.zpi._CommonClasses.Formulas.Formula
 import org.testng.annotations.Test
 
 /**

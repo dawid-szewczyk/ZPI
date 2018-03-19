@@ -2,7 +2,7 @@ package com.pwr.zpi.io;
 
 import com.pwr.zpi.exceptions.ConfigValueNotFoundException;
 import com.pwr.zpi.exceptions.InvalidConfigurationException;
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.converters.Converter;
 import com.thoughtworks.xstream.converters.MarshallingContext;
@@ -56,7 +56,7 @@ public class Configuration {
      * DatabaseAO static value.
      */
     public static final String DATABASE_FILENAME, DEF_DATABASE_FILENAME = "database.db";
-    public static final String IDENTIFIERS_PATH, DEF_IDENTIFIERS_PATH = "com.pwr.zpi.core.memory.semantic.identifiers";
+    public static final String IDENTIFIERS_PATH, DEF_IDENTIFIERS_PATH = "com.pwr.zpi._CommonClasses.identifiers";
 
     /**
      * Context static values.

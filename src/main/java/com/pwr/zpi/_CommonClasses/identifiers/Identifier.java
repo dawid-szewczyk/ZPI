@@ -1,6 +1,6 @@
-package com.pwr.zpi.core.memory.semantic.identifiers;
+package com.pwr.zpi._CommonClasses.identifiers;
 
-import com.pwr.zpi.core.memory.semantic.ObjectType;
+import com.pwr.zpi._CommonClasses.ObjectType;
 import com.pwr.zpi.exceptions.ObjectTypeNotFoundException;
 
 import java.util.logging.Level;

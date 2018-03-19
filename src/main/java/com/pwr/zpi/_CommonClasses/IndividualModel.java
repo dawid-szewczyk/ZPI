@@ -1,8 +1,7 @@
-package com.pwr.zpi.core.memory.semantic;
+package com.pwr.zpi._CommonClasses;
 
 
-import com.pwr.zpi.core.memory.semantic.identifiers.Identifier;
-import com.pwr.zpi._CommonClasses.Trait;
+import com.pwr.zpi._CommonClasses.identifiers.Identifier;
 
 import java.util.List;
 

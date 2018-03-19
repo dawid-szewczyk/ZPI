@@ -3,7 +3,7 @@ package com.pwr.zpi.core.memory.holons.ContextJar;
 
 import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
 import com.pwr.zpi.core.memory.holons.context.contextualisation.Contextualisation;
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,9 +1,9 @@
 package com.pwr.zpi.core.memory.holons.context.selectors;
 
 import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 import com.pwr.zpi.language.State;
-import com.pwr.zpi.core.memory.semantic.IndividualModel;
+import com.pwr.zpi._CommonClasses.IndividualModel;
 
 import java.util.ArrayList;
 import java.util.HashSet;

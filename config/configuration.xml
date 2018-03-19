@@ -19,7 +19,7 @@
 
     <!-- DatabaseAO -->
     <DATABASE_FILENAME> database.db </DATABASE_FILENAME>
-    <IDENTIFIERS_PATH> com.pwr.zpi.core.memory.semantic.identifiers </IDENTIFIERS_PATH>
+    <IDENTIFIERS_PATH>com.pwr.zpi._CommonClasses.identifiers</IDENTIFIERS_PATH>
 
     <!-- Context -->
     <MAX_THRESHOLD type="double"> 3 </MAX_THRESHOLD>

@@ -1,12 +1,15 @@
 
-package com.pwr.zpi.linguistic;
+package com.pwr.zpi._CommunicationLayer;
 
+import com.pwr.zpi._CommonClasses.Formulas.ComplexFormula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula;
 import com.pwr.zpi._CommonClasses.Trait;
 import com.pwr.zpi.core.Agent;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.InvalidQuestionException;
 import com.pwr.zpi.language.*;
-import com.pwr.zpi.core.memory.semantic.IndividualModel;
+import com.pwr.zpi._CommonClasses.IndividualModel;
 
 import java.util.ArrayList;
 import java.util.List;

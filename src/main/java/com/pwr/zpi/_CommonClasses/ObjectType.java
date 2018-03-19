@@ -1,9 +1,8 @@
 /*
  * Created by Grzegorz Kostkowski
  */
-package com.pwr.zpi.core.memory.semantic;
+package com.pwr.zpi._CommonClasses;
 
-import com.pwr.zpi._CommonClasses.Trait;
 import com.pwr.zpi.io.XMLDAO;
 
 import java.util.Collection;

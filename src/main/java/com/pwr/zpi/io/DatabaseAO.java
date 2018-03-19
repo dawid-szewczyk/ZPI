@@ -1,8 +1,8 @@
 package com.pwr.zpi.io;
 
 import com.pwr.zpi._EpisodicMemoryLayer.Observation;
-import com.pwr.zpi.core.memory.semantic.ObjectType;
-import com.pwr.zpi.core.memory.semantic.identifiers.Identifier;
+import com.pwr.zpi._CommonClasses.ObjectType;
+import com.pwr.zpi._CommonClasses.identifiers.Identifier;
 import com.pwr.zpi.exceptions.IdentifierClassNotFoundException;
 import com.pwr.zpi._CommonClasses.Trait;
 import org.reflections.Reflections;

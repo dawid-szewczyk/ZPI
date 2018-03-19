@@ -6,14 +6,14 @@ import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile
 import com.pwr.zpi._SemanticMemoryLayer.DistributedKnowledge
 import com.pwr.zpi.core.memory.holons.BinaryHolon
 import com.pwr.zpi.core.memory.holons.Holon
-import com.pwr.zpi.core.memory.semantic.IndividualModel
-import com.pwr.zpi.core.memory.semantic.ObjectType
-import com.pwr.zpi.core.memory.semantic.identifiers.QRCode
+import com.pwr.zpi._CommonClasses.IndividualModel
+import com.pwr.zpi._CommonClasses.ObjectType
+import com.pwr.zpi._CommonClasses.identifiers.QRCode
 import com.pwr.zpi.exceptions.InvalidFormulaException
 import com.pwr.zpi.exceptions.NotApplicableException
 import com.pwr.zpi.exceptions.NotConsistentDKException
-import com.pwr.zpi.language.Formula
-import com.pwr.zpi.language.SimpleFormula
+import com.pwr.zpi._CommonClasses.Formulas.Formula
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula
 import com.pwr.zpi._CommonClasses.Trait
 import org.testng.annotations.Test
 

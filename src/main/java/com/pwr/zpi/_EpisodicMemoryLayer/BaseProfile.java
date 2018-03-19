@@ -3,7 +3,7 @@
  */
 package com.pwr.zpi._EpisodicMemoryLayer;
 
-import com.pwr.zpi.core.memory.semantic.IndividualModel;
+import com.pwr.zpi._CommonClasses.IndividualModel;
 import com.pwr.zpi.language.State;
 import com.pwr.zpi._CommonClasses.Trait;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;

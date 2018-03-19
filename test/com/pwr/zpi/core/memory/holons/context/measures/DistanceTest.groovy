@@ -3,9 +3,9 @@ package holons.context.measures
 import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile
 import com.pwr.zpi.core.memory.holons.context.builders.ConcreteContextBuilder
 import com.pwr.zpi.core.memory.holons.context.measures.Distance
-import com.pwr.zpi.core.memory.semantic.IndividualModel
-import com.pwr.zpi.core.memory.semantic.ObjectType
-import com.pwr.zpi.core.memory.semantic.identifiers.QRCode
+import com.pwr.zpi._CommonClasses.IndividualModel
+import com.pwr.zpi._CommonClasses.ObjectType
+import com.pwr.zpi._CommonClasses.identifiers.QRCode
 import com.pwr.zpi._CommonClasses.Trait
 import org.junit.Test
 

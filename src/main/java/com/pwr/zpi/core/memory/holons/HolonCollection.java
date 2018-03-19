@@ -1,5 +1,7 @@
 package com.pwr.zpi.core.memory.holons;
 
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula;
 import com.pwr.zpi.core.Agent;
 import com.pwr.zpi._SemanticMemoryLayer.DistributedKnowledge;
 import com.pwr.zpi.core.memory.holons.context.contextualisation.Contextualisation;
@@ -7,7 +9,6 @@ import com.pwr.zpi.exceptions.InvalidContextException;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.NotApplicableException;
 import com.pwr.zpi.exceptions.NotConsistentDKException;
-import com.pwr.zpi.language.*;
 
 import java.util.ArrayList;
 import java.util.Set;

@@ -1,12 +1,13 @@
 package com.pwr.zpi.linguistic
 
-import com.pwr.zpi.language.Formula
+import com.pwr.zpi._CommonClasses.Formulas.Formula
+import com.pwr.zpi._CommunicationLayer.SimpleStatement
 import com.pwr.zpi.language.ModalOperator
-import com.pwr.zpi.language.SimpleFormula
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula
 import com.pwr.zpi._CommonClasses.Trait
-import com.pwr.zpi.core.memory.semantic.IndividualModel
-import com.pwr.zpi.core.memory.semantic.ObjectType
-import com.pwr.zpi.core.memory.semantic.identifiers.QRCode
+import com.pwr.zpi._CommonClasses.IndividualModel
+import com.pwr.zpi._CommonClasses.ObjectType
+import com.pwr.zpi._CommonClasses.identifiers.QRCode
 import org.junit.Test
 
 /**

@@ -10,7 +10,7 @@ import com.pwr.zpi.core.memory.holons.context.selectors.RepresentativesSelector;
 import com.pwr.zpi.exceptions.InvalidContextualisationException;
 import com.pwr.zpi.exceptions.InvalidMeasureImplementation;
 import com.pwr.zpi.core.memory.holons.context.Context;
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 
 import java.util.Map;
 import java.util.Set;

@@ -3,11 +3,11 @@
  */
 package com.pwr.zpi._EpisodicMemoryLayer;
 
-import com.pwr.zpi.core.memory.semantic.IndividualModel;
+import com.pwr.zpi._CommonClasses.IndividualModel;
 import com.pwr.zpi.io.Configuration;
 import com.pwr.zpi.language.State;
 import com.pwr.zpi._CommonClasses.Trait;
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 
 import java.util.*;
 import java.util.logging.Level;

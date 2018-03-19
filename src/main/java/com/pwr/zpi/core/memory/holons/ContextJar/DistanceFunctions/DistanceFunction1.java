@@ -4,7 +4,7 @@ import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
 import com.pwr.zpi.core.memory.holons.ContextJar.DistanceFunction;
 import com.pwr.zpi.util.Pair;
 import com.pwr.zpi._CommonClasses.Trait;
-import com.pwr.zpi.core.memory.semantic.IndividualModel;
+import com.pwr.zpi._CommonClasses.IndividualModel;
 
 import java.util.Set;
 

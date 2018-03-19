@@ -1,6 +1,9 @@
 package com.pwr.zpi.core.memory.holons;
 
 
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula;
+import com.pwr.zpi._CommonClasses.Grounder;
 import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
 import com.pwr.zpi._SemanticMemoryLayer.DistributedKnowledge;
 import com.pwr.zpi.core.memory.holons.ContextJar.DistanceFunctions.DistanceFunction1;
@@ -8,7 +11,6 @@ import com.pwr.zpi.core.memory.holons.context.contextualisation.Contextualisatio
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.NotApplicableException;
 import com.pwr.zpi.core.memory.holons.ContextJar.DistanceFunction;
-import com.pwr.zpi.language.*;
 import com.pwr.zpi.util.Pair;
 
 import java.util.HashMap;

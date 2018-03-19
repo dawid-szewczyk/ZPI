@@ -1,6 +1,6 @@
-package com.pwr.zpi.linguistic;
+package com.pwr.zpi._CommunicationLayer;
 
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 import com.pwr.zpi.language.ModalOperator;
 
 import java.util.Map;

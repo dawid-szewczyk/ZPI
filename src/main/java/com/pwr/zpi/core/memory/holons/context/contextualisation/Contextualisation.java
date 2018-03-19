@@ -4,7 +4,7 @@
 package com.pwr.zpi.core.memory.holons.context.contextualisation;
 
 import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 import java.util.Map;

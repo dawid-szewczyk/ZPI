@@ -7,8 +7,8 @@ import com.pwr.zpi.core.Agent;
 import com.pwr.zpi.core.memory.holons.context.contextualisation.Contextualisation;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.NotApplicableException;
-import com.pwr.zpi.language.ComplexFormula;
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.ComplexFormula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 import com.pwr.zpi.language.LogicOperator;
 
 import java.util.HashMap;

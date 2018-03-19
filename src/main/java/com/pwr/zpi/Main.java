@@ -1,5 +1,8 @@
 package com.pwr.zpi;
 
+import com.pwr.zpi._CommonClasses.Formulas.ComplexFormula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.SimpleFormula;
 import com.pwr.zpi._CommonClasses.Trait;
 import com.pwr.zpi.conversation.ConversationSimulator;
 import com.pwr.zpi.core.Agent;
@@ -8,8 +11,8 @@ import com.pwr.zpi.core.memory.holons.context.measures.NormalisedSoftDistance;
 import com.pwr.zpi.core.memory.holons.context.selectors.LatestFocusedGroupSelector;
 import com.pwr.zpi.core.memory.holons.context.selectors.LatestGroupSelector;
 import com.pwr.zpi.core.memory.holons.context.selectors.LatestSelector;
-import com.pwr.zpi.core.memory.semantic.IndividualModel;
-import com.pwr.zpi.core.memory.semantic.ObjectType;
+import com.pwr.zpi._CommonClasses.IndividualModel;
+import com.pwr.zpi._CommonClasses.ObjectType;
 import com.pwr.zpi.exceptions.InvalidContextualisationException;
 import com.pwr.zpi.exceptions.InvalidFormulaException;
 import com.pwr.zpi.exceptions.InvalidGroupSelectorException;
@@ -20,7 +23,7 @@ import com.pwr.zpi.core.memory.holons.context.contextualisation.FilteringContext
 import com.pwr.zpi.core.memory.holons.context.measures.NormalisedDistance;
 
 import com.pwr.zpi.language.*;
-import com.pwr.zpi.core.memory.semantic.identifiers.QRCode;
+import com.pwr.zpi._CommonClasses.identifiers.QRCode;
 import com.pwr.zpi.simulation.Scenario;
 import com.pwr.zpi.util.Util;
 

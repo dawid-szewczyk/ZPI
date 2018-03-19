@@ -3,9 +3,9 @@ package com.pwr.zpi.core.memory.holons.context.selectors;
 import com.pwr.zpi._EpisodicMemoryLayer.BaseProfile;
 import com.pwr.zpi.exceptions.InvalidGroupSelectorException;
 import com.pwr.zpi.io.Configuration;
-import com.pwr.zpi.language.Formula;
+import com.pwr.zpi._CommonClasses.Formulas.Formula;
 import com.pwr.zpi.language.State;
-import com.pwr.zpi.core.memory.semantic.IndividualModel;
+import com.pwr.zpi._CommonClasses.IndividualModel;
 
 import java.util.Comparator;
 import java.util.HashSet;

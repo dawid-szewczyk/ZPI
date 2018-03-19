@@ -54,7 +54,7 @@ class Main {
                 new LatestGroupSelector(3),
                 new NormalisedDistance(0.3));
 
-
+//testowy komentarz
 
         /*      * * * Sample scenarios execution * * *          */
 
